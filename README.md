@@ -4,10 +4,15 @@ This one is detailed analysis over Meteorite landings, data is gained from Data.
 Research Questions to Answer:
 
 1). How many meteorites were found?
+
 2).Which meteorites were found in the earliest year?
+
 3).What sizes of meteorites were found so far?
+
 4).Where were the largest meteorites’ landing spots?
+
 5).What types of meteorites did we find?
+
 6).Which countries found more meteorites?
 
 Materials & Methods
