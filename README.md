@@ -17,4 +17,5 @@ Research Questions to Answer:
 
 Materials & Methods
 1).I obtained the csv file from Data.gov - the total rows were 45,716. The last update was conducted on July 17, 2020.
+
 2).I used: python - pandas (data manipulation), citipy (for obtaining city and country names to match with geo locations), and matplotlib and gmap (for visualization).
